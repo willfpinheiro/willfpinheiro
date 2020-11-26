@@ -1,7 +1,7 @@
 <h1 align="center">My name is Willyam Pinheiro, born in Brazil , this is my little world :earth_americas: of projects. </h1>
 <h3 align="center">A frontend developer from Brazil,trying to find my way</h3>
 
-- 🔭 I’m currently working on **Gerenciador de Biblioteca**
+- 🔭 I’m currently working on **CRUD Vue**
 
 - 🌱 I’m currently learning **VUE.js**
 
