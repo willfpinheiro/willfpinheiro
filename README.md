@@ -1,11 +1,11 @@
-<h1 align="center">My name is Willyam Pinheiro, born in Brazil , this is my little world :earth_americas: of projects. </h1>
+<h1 align="center">My name is Willyam Pinheiro, born in Brazil , this is my little world of projects. </h1>
 <h3 align="center">A frontend developer from Brazil,trying to find my way</h3>
 
-- 🔭 I’m currently working on **CRUD Vue**
+- I’m currently working on **CRUD Vue**
 
-- 🌱 I’m currently learning **VUE.js**
+- I’m currently learning **VUE.js**
 
-- 📫 How to reach me **willfpinheiro@gmail.com**
+- How to reach me **willfpinheiro@gmail.com**
 
 - In my free time, i like to have good time with my kid, play Dota 2and cook.
 
